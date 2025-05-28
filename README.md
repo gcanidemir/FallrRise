@@ -1,16 +1,6 @@
 # FallrRise
  Unity Game
 
-Controls:
+[To Access the Demo](https://gcanidemir.itch.io/fallrrise)
 
-WASD - To move
-
-Shift - To roll
-
-Mouse Click - To attack
-
-Purpose:
-
-Defeat the opponent.
-
-[To Access the game](https://gcanidemir.github.io/FallrRise)
+[To Play the Game](https://youtu.be/zuSTkT8jwIA?feature=shared)
